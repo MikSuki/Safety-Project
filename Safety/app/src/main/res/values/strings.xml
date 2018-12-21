@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Safety</string>
+    <string name="phone_number">Phone Number: </string>
+    <string name="message">Message: </string>
+    <string name="connect_btn">connect</string>
+    <string name="connect_status">disconnect</string>
+</resources>
